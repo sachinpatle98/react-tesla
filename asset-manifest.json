@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tesla/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/react-tesla/static/js/main.ecd79997.chunk.js",
+    "main.js.map": "/react-tesla/static/js/main.ecd79997.chunk.js.map",
+    "runtime-main.js": "/react-tesla/static/js/runtime-main.ee5608aa.js",
+    "runtime-main.js.map": "/react-tesla/static/js/runtime-main.ee5608aa.js.map",
+    "static/js/2.f6f71f33.chunk.js": "/react-tesla/static/js/2.f6f71f33.chunk.js",
+    "static/js/2.f6f71f33.chunk.js.map": "/react-tesla/static/js/2.f6f71f33.chunk.js.map",
+    "static/js/3.46f52a60.chunk.js": "/react-tesla/static/js/3.46f52a60.chunk.js",
+    "static/js/3.46f52a60.chunk.js.map": "/react-tesla/static/js/3.46f52a60.chunk.js.map",
+    "index.html": "/react-tesla/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/react-tesla/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f6f71f33.chunk.js.LICENSE.txt": "/react-tesla/static/js/2.f6f71f33.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ee5608aa.js",
+    "static/js/2.f6f71f33.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.ecd79997.chunk.js"
+  ]
+}
